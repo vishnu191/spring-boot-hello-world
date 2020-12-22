@@ -8,10 +8,10 @@
         <version>2.2.0.M1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.techprimers.lazy</groupId>
-    <artifactId>spring-boot-lazy-init-example</artifactId>
+    <groupId>com.helloworld</groupId>
+    <artifactId>spring-boot-hello-world</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-lazy-init-example</name>
+    <name>spring-boot-hello-world</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

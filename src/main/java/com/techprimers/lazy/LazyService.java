@@ -7,10 +7,10 @@ import org.springframework.stereotype.Service;
 public class LazyService {
 
     public LazyService() {
-        System.out.println("Lazy Service:: Constructor loaded");
+        System.out.println("Hello Service:: Constructor loaded");
     }
 
     public String hello() {
-        return "hello youtube";
+        return "Hello World!";
     }
 }
